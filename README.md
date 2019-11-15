@@ -1,5 +1,5 @@
 # adobe-api-client-base
-Base class to build an Adobe API client for NodeJS
+Base class for building Adobe API clients
 
 ## Goals
 

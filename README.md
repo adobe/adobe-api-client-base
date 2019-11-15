@@ -1,6 +1,6 @@
 [![License](https://img.shields.io/badge/License-Apache%202.0-blue.svg)](https://opensource.org/licenses/Apache-2.0) 
-[![Version](https://img.shields.io/npm/v/@adobe/adobe-api-client-base.svg)](https://npmjs.org/package/@adobe/adobe-api-client-base)
-[![Downloads/week](https://img.shields.io/npm/dw/@adobe/fetch.svg)](https://npmjs.org/package/@adobe/adobe-api-client-base)
+[![Version](https://img.shields.io/npm/v/@adobe/api-client-base.svg)](https://npmjs.org/package/@adobe/api-client-base)
+[![Downloads/week](https://img.shields.io/npm/dw/@adobe/api-client-base.svg)](https://npmjs.org/package/@adobe/api-client-base)
 [![Build Status](https://travis-ci.org/adobe/adobe-api-client-base.svg?branch=master)](https://travis-ci.com/adobe/adobe-api-client-base)
 [![codecov](https://codecov.io/gh/adobe/adobe-api-client-base/branch/master/graph/badge.svg)](https://codecov.io/gh/adobe/adobe-api-client-base)
 [![Greenkeeper badge](https://badges.greenkeeper.io/adobe/adobe-api-client-base.svg)](https://greenkeeper.io/)

@@ -1,5 +1,5 @@
 {
-  "name": "@adobe/adobe-api-client-base",
+  "name": "@adobe/api-client-base",
   "version": "0.0.1",
   "description": "Adobe API Base Client for NodeJS",
   "main": "index.js",

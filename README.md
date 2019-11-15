@@ -18,7 +18,7 @@ This package is build upon [adobe-fetch](https://github.com/adobe/adobe-fetch) w
 ### Installation
 
 ```
-npm install --save @adobe/adobe-api-client-base
+npm install --save @adobe/api-client-base
 ```
 
 ### Common Usage

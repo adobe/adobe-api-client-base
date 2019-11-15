@@ -1,4 +1,7 @@
 # adobe-api-client-base
+
+[![Greenkeeper badge](https://badges.greenkeeper.io/adobe/adobe-api-client-base.svg)](https://greenkeeper.io/)
+
 Base class for building Adobe API clients
 
 ## Goals

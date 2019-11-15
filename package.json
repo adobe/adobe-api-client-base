@@ -1,0 +1,46 @@
+{
+  "name": "@adobe/adobe-api-client-base",
+  "version": "0.0.1",
+  "description": "Adobe API Base Client for NodeJS",
+  "main": "index.js",
+  "scripts": {
+    "lint": "eslint src test index.js",
+    "test": "jest"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/adobe/adobe-api-client-base.git"
+  },
+  "bugs": {
+    "url": "https://github.com/adobe/adobe-api-client-base/issues"
+  },
+  "engines": {
+    "node": ">=6.0.0"
+  },
+  "keywords": [
+    "AEP",
+    "API",
+    "adobe.io"
+  ],
+  "author": "Ittai Baratz",
+  "license": "Apache-2.0",
+  "publishConfig": {
+    "registry": "https://registry.npmjs.org"
+  },
+  "dependencies": {
+    "@adobe/fetch": "^0.2.4",
+    "debug": "^4.1.1"
+  },
+  "devDependencies": {
+    "eslint": "^6.6.0",
+    "eslint-config-prettier": "^6.5.0",
+    "eslint-plugin-prettier": "^3.1.0",
+    "jest": "^24.9.0",
+    "node-fetch": "^2.6.0",
+    "prettier": "^1.19.1"
+  },
+  "jest": {
+    "coverageDirectory": "./coverage/",
+    "collectCoverage": true
+  }
+}

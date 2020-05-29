@@ -3,7 +3,7 @@
 [![Downloads/week](https://img.shields.io/npm/dw/@adobe/api-client-base.svg)](https://npmjs.org/package/@adobe/api-client-base)
 [![Build Status](https://travis-ci.org/adobe/adobe-api-client-base.svg?branch=master)](https://travis-ci.com/adobe/adobe-api-client-base)
 [![codecov](https://codecov.io/gh/adobe/adobe-api-client-base/branch/master/graph/badge.svg)](https://codecov.io/gh/adobe/adobe-api-client-base)
-[![Greenkeeper badge](https://badges.greenkeeper.io/adobe/adobe-api-client-base.svg)](https://greenkeeper.io/)
+
 [![Language grade: JavaScript](https://img.shields.io/lgtm/grade/javascript/g/adobe/adobe-api-client-base.svg?logo=lgtm&logoWidth=18)](https://lgtm.com/projects/g/adobe/adobe-api-client-base/context:javascript)
 
 # adobe-api-client-base
